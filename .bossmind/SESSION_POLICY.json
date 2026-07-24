@@ -1,0 +1,7 @@
+{
+  "projectId": "ai-video-generator",
+  "deltaOnly": true,
+  "blockExternalChatGptUi": true,
+  "modelStatementIsNotProof": true,
+  "requireValidationBeforeComplete": true
+}
